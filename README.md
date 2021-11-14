@@ -5,3 +5,5 @@ Here's a video demonstration:
 https://www.youtube.com/watch?v=8vPo0Sx3cCM
 
 ![Isaac!](https://raw.githubusercontent.com/orrinrhodes/orrin-s-productivity-ensurance/main/isaacicon.ico)
+
+I only release the highest of quality code. I swear.
